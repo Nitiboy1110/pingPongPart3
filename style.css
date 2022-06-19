@@ -1,0 +1,46 @@
+body{
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+
+.heading{
+    width: 100%;
+    display: inline;
+    text-align: center;
+    margin-bottom: 5px;
+    width: 100%;
+}
+
+.heading h3{
+    display: inline;
+    font-size : 22px ;
+}
+
+.heading button{
+    float: right;
+    border: 5px solid black;
+}
+
+.status_label{
+    background-color: cadetblue;
+}
+
+.copy_right_footer{
+    background-color: grey;
+    color: wheat;
+    line-height: 2px;
+    margin-bottom: 0px;
+    position: sticky;
+    width: 100%;
+    text-align: bottom;
+}
+
+.modal-body{
+    text-align: left;
+}
+
+canvas{
+    border-radius: 10px;
+    border: red;
+}
